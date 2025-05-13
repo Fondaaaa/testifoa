@@ -1,5 +1,4 @@
 import streamlit as st
-
-st.title("buongiorno")
-
-st.text("ciao")
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
